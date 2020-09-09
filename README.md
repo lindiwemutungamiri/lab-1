@@ -1,6 +1,8 @@
 # Lab-1 Lindiwe Mutungamiri
 
-This file is the template for the first lab in Ashesi Web Development 2020.
+This file is the template for the first lab in Ashesi Web Development 2020.https://lindiwemutungamiri.github.io/sample_website/
+
+A link to my website 
 
 ## Contents of the lab
 
